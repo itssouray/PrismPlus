@@ -1,4 +1,4 @@
-# Prism Plus
+# Prism Plus Theme For Your VsCode
 
 [![Version](https://vsmarketplacebadge.apphb.com/version/PrismPlus.prism-plus.svg)](https://marketplace.visualstudio.com/items?itemName=PrismPlus.prism-plus)
 [![Installs](https://vsmarketplacebadge.apphb.com/installs/PrismPlus.prism-plus.svg)](https://marketplace.visualstudio.com/items?itemName=PrismPlus.prism-plus)
