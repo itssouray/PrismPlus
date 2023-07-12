@@ -1,3 +1,6 @@
+![logo](https://github.com/itssouray/PrismPlus/assets/76596290/8a9bfad6-f8af-4178-84a0-63144ad9e4fc)
+
+
 # Prism Plus Theme for VSCode
 
 [![Version](https://vsmarketplacebadge.apphb.com/version/PrismPlus.prism-plus.svg)](https://marketplace.visualstudio.com/items?itemName=PrismPlus.prism-plus)
