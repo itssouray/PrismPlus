@@ -1,38 +1,42 @@
-# Prism Plus Theme
+# Prism Plus
 
-Prism Plus is a visually stunning and highly customizable theme for Visual Studio Code. It offers a modern and elegant design that enhances your coding experience. With a sleek color palette, well-defined syntax highlighting, and thoughtful UI elements, Prism Plus provides a visually appealing and comfortable environment for coding in various programming languages.
+[![Version](https://vsmarketplacebadge.apphb.com/version/PrismPlus.prism-plus.svg)](https://marketplace.visualstudio.com/items?itemName=PrismPlus.prism-plus)
+[![Installs](https://vsmarketplacebadge.apphb.com/installs/PrismPlus.prism-plus.svg)](https://marketplace.visualstudio.com/items?itemName=PrismPlus.prism-plus)
+[![Rating](https://vsmarketplacebadge.apphb.com/rating/PrismPlus.prism-plus.svg)](https://marketplace.visualstudio.com/items?itemName=PrismPlus.prism-plus)
+
+Prism Plus is a Visual Studio Code extension that enhances your coding experience with a beautiful and customizable color theme. It provides a vibrant and modern look for your code editor, making it visually appealing and easy to work with.
 
 ## Features
 
-- Beautiful and modern design
-- Thoughtfully chosen color palette for optimal readability
-- Comprehensive syntax highlighting for popular programming languages
-- Customizable theme options to match your preferences
-- Intuitive UI elements for enhanced productivity
-- Seamless integration with Visual Studio Code
+- Beautiful color theme with a focus on readability and aesthetics.
+- Customizable options to personalize the theme according to your preferences.
+- Supports a wide range of programming languages and file types.
+- Optimized for both light and dark editor themes.
+- Regular updates and improvements to ensure compatibility with the latest versions of Visual Studio Code.
 
 ## Installation
 
-1. Launch Visual Studio Code.
-2. Open the Extensions view by clicking on the square icon on the left sidebar or by pressing `Ctrl+Shift+X`.
-3. Search for "Prism Plus" in the Extensions marketplace.
-4. Click on the "Install" button next to the Prism Plus Theme extension.
-5. Once installed, click on the "Reload" button to activate the theme.
-6. Go to `File > Preferences > Color Theme` and select "Prism Plus" as your active theme.
+You can install Prism Plus directly from the Visual Studio Code Marketplace. Here's how:
 
-## Customization
+1. Open Visual Studio Code.
+2. Go to the Extensions view by clicking on the square icon on the left sidebar or by pressing `Ctrl+Shift+X` (Windows/Linux) or `Cmd+Shift+X` (Mac).
+3. Search for "Prism Plus" in the Marketplace search bar.
+4. Click on the "Install" button next to the "Prism Plus" extension.
+5. Once installed, the extension will be activated automatically.
 
-Prism Plus provides several customization options to tailor the theme according to your preferences. To customize the theme, follow these steps:
+## Usage
 
-1. Go to `File > Preferences > Color Theme`.
-2. Click on the "Configure" icon (pencil) in the upper-right corner of the Color Theme picker.
-3. Select "Prism Plus" to open the theme customization settings.
-4. Modify the desired settings to adjust colors, fonts, and other aspects of the theme.
-5. Save the changes, and the theme will update accordingly.
+1. After installing Prism Plus, open a file in Visual Studio Code.
+2. Go to the "View" menu, select "Command Palette" (or press `Ctrl+Shift+P` (Windows/Linux) or `Cmd+Shift+P` (Mac)).
+3. Type "Preferences: Color Theme" and select it from the dropdown menu.
+4. Choose "Prism Plus" from the list of available themes.
+5. The theme will be applied to your editor immediately.
 
 ## Feedback and Support
 
-If you have any feedback, suggestions, or issues with the Prism Plus theme, feel free to [open an issue](https://github.com/itssouray/PrismPlus) on the GitHub repository. We appreciate your contributions and are committed to making the theme even better.
+If you have any feedback, suggestions, or issues with Prism Plus, please don't hesitate to reach out. You can contact us through the [GitHub repository](https://github.com/itssouray/PrismPlus) or the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=PrismPlus.prism-plus).
 
 
+## License
 
+Prism Plus is licensed under the [MIT License](https://github.com/itssouray/PrismPlus/blob/main/LICENSE). See the LICENSE file for more details.
