@@ -1,0 +1,22 @@
+{
+  "name": "prism-plus",
+  "displayName": "PrismPlus",
+  "description": "PrismPlus is a powerful color extension for Visual Studio Code that brings vibrant and captivating coding themes to your development environment. Unlock a world of creativity with a rich collection of meticulously crafted color schemes, designed to enhance your coding experience. Stand out from the crowd and immerse yourself in a visually stunning coding environment with PrismPlus.",
+  "version": "0.0.1",
+  "icon":"logo.png",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Prism Plus",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Prism Plus-color-theme.json" 
+      }
+    ]
+  }
+}
